@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi!+I%27m+Akshay+Darji;AI+Engineer;LLM+Orchestration+%7C+RAG+Architectures;Autonomous+Agents+%7C+Production+AI+Systems)](https://git.io/typing-svg)
 
-### Building production-grade AI systems that actually ship.
+### Learning AI through hands-on projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-akshay-darji.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imakshaydarji/)
