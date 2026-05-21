@@ -41,7 +41,7 @@ jobs:
 
       - name: Check required profile sections
         run: |
-          for section in 'Akshay Darji' '🤖 About Me' '🚀 Flagship Projects' '🛠️ Tech Stack'; do
+          for section in 'Hi!+I%27m+Akshay+Darji' '🤖 About Me' '🚀 Flagship Projects' '🛠️ Tech Stack'; do
             grep -q "$section" README.md || {
               echo "Missing required section: $section"
               exit 1

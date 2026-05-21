@@ -1,8 +1,6 @@
 <div align="center">
 
-# Akshay Darji
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Orchestration+%7C+RAG+Architectures;Autonomous+Agents+%7C+Production+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi!+I%27m+Akshay+Darji;AI+Engineer;LLM+Orchestration+%7C+RAG+Architectures;Autonomous+Agents+%7C+Production+AI+Systems)](https://git.io/typing-svg)
 
 ### Building production-grade AI systems that actually ship.
 
