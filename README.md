@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Akshay Darji
@@ -40,7 +39,7 @@ akshay = {
     ],
     "mantra"     : "Production AI systems — not demos."
 }
-````
+```
 
 I build **autonomous AI systems** that ship to production and stay operable.
 
@@ -55,19 +54,13 @@ My work spans:
 So stakeholders always know:
 
 * what ran
-
 * what retrieved
-
 * what failed
-
-* and what to replay when systems drift.
+* and what to replay when systems drift
 
 * 🔭 Currently building autonomous agents & production RAG systems
-
 * 🎓 MSc Artificial Intelligence — Sheffield Hallam University
-
 * 🚀 Passionate about grounded LLMs & resilient AI infrastructure
-
 * 📫 Reach me: **[akshaysdarji@gmail.com](mailto:akshaysdarji@gmail.com)**
 
 ---
@@ -99,7 +92,7 @@ Processes **100+ job applications/hour** via multi-LLM orchestration.
 
 ### Repository
 
-🔗 https://github.com/imAkshayDarji/JobedIn-v3
+🔗 [JobedIn-v3](https://github.com/imAkshayDarji/JobedIn-v3)
 
 </td>
 
@@ -130,7 +123,7 @@ Processes **100+ job applications/hour** via multi-LLM orchestration.
 
 ### Repository
 
-🔗 https://github.com/imAkshayDarji/AI_ChatBot
+🔗 [AI_ChatBot](https://github.com/imAkshayDarji/AI_ChatBot)
 
 </td>
 
@@ -159,7 +152,7 @@ Research discovery platform for the SHU Department of Computing.
 
 ### Repository
 
-🔗 https://github.com/imAkshayDarji/GODL1KE
+🔗 [GODL1KE](https://github.com/imAkshayDarji/GODL1KE)
 
 </td>
 
@@ -177,7 +170,7 @@ Explore additional shipped systems including:
 
 ### Portfolio
 
-🌐 https://portfolio-akshay-darji.vercel.app/projects
+🌐 [portfolio-akshay-darji.vercel.app/projects](https://portfolio-akshay-darji.vercel.app/projects)
 
 </td>
 
@@ -190,12 +183,12 @@ Explore additional shipped systems including:
 
 ## 🤖 AI / ML
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E57E0?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-8E24AA?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=for-the-badge)
@@ -204,37 +197,37 @@ Explore additional shipped systems including:
 
 ## ⚙️ Backend & APIs
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
 ## 🗄️ Databases & Vector Search
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🌐 Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 🤖 Automation & DevOps
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF9800?style=for-the-badge)
 
 ---
@@ -260,8 +253,5 @@ I'm actively looking for roles in:
 ### 📬 Contact
 
 * Email: [akshaysdarji@gmail.com](mailto:akshaysdarji@gmail.com)
-* Portfolio: https://portfolio-akshay-darji.vercel.app/
-* LinkedIn: https://www.linkedin.com/in/imakshaydarji/
-
-```
-```
+* Portfolio: [portfolio-akshay-darji.vercel.app](https://portfolio-akshay-darji.vercel.app/)
+* LinkedIn: [linkedin.com/in/imakshaydarji](https://www.linkedin.com/in/imakshaydarji/)

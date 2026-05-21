@@ -1,0 +1,49 @@
+name: Validate Profile README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/validate-readme.yml
+  pull_request:
+    paths:
+      - README.md
+      - .github/workflows/validate-readme.yml
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Reject outer code fence wrapper
+        run: |
+          if head -n 1 README.md | grep -q '^````'; then
+            echo 'README.md must not start with a quadruple-backtick code fence.'
+            exit 1
+          fi
+
+      - name: Reject escaped badge query strings
+        run: |
+          if grep -q '\\&logo=' README.md; then
+            echo 'README.md contains escaped ampersands in badge URLs (use & not \\&).'
+            exit 1
+          fi
+
+      - name: Reject trailing orphan fences
+        run: |
+          tail -n 5 README.md | grep -q '^```$' && {
+            echo 'README.md ends with orphan triple-backtick fences.'
+            exit 1
+          } || true
+
+      - name: Check required profile sections
+        run: |
+          for section in 'Akshay Darji' '🤖 About Me' '🚀 Flagship Projects' '🛠️ Tech Stack'; do
+            grep -q "$section" README.md || {
+              echo "Missing required section: $section"
+              exit 1
+            }
+          done
