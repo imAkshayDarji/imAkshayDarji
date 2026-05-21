@@ -19,47 +19,14 @@
 
 ```python
 akshay = {
-    "role"       : "AI Engineer / AI Automation Engineer",
-    "location"   : "Sheffield, UK 🇬🇧",
-    "education"  : "MSc Artificial Intelligence — Sheffield Hallam University (Merit)",
-    "focus"      : [
-        "LLM Orchestration",
-        "RAG Architectures",
-        "Autonomous Agents"
-    ],
-    "stack"      : [
-        "Python",
-        "FastAPI",
-        "PostgreSQL",
-        "pgvector",
-        "Docker",
-        "AWS"
-    ],
-    "mantra"     : "Production AI systems — not demos."
+    "role"      : "AI Engineer (Graduate)",
+    "location"  : "Sheffield, UK",
+    "education" : "MSc Artificial Intelligence — Sheffield Hallam University",
+    "interests" : ["LLMs", "RAG", "Python", "FastAPI"],
 }
 ```
 
-I build **autonomous AI systems** that ship to production and stay operable.
-
-My work spans:
-
-* RAG pipelines with vector retrieval
-* Multi-LLM orchestration
-* Browser automation fleets
-* Hardened FastAPI backends
-* Production telemetry & observability
-
-So stakeholders always know:
-
-* what ran
-* what retrieved
-* what failed
-* and what to replay when systems drift
-
-* 🔭 Currently building autonomous agents & production RAG systems
-* 🎓 MSc Artificial Intelligence — Sheffield Hallam University
-* 🚀 Passionate about grounded LLMs & resilient AI infrastructure
-* 📫 Reach me: **[akshaysdarji@gmail.com](mailto:akshaysdarji@gmail.com)**
+Recent AI graduate based in Sheffield. I learn by building projects in LLMs, RAG, and Python backends.
 
 ---
 
