@@ -135,7 +135,7 @@ Explore additional shipped systems including:
 
 ### Portfolio
 
-🌐 [portfolio-akshay-darji.vercel.app/projects](https://portfolio-akshay-darji.vercel.app/projects)
+🌐 [portfolio-akshay-darji.vercel.app/projects](https://portfolio-akshay-darji.vercel.app)
 
 </td>
 
